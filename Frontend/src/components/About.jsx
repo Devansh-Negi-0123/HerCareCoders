@@ -3,28 +3,34 @@ import React from "react";
 const About = () => {
   const teamMembers = [
     {
-      role: "Project Manager",
-      name: "Kirti Goel",
-      rollNo: "2210991805",
-      linkedin: "https://www.linkedin.com/in/kirti-goel-7342592b1/",
+      role: "Project lead",
+      name: "Devansh Negi",
+      rollNo: "2410990123",
+      linkedin: "",
     },
     {
       role: "Frontend Developer",
-      name: "Mitul Dwivedi",
-      rollNo: "2210991927",
-      linkedin: "https://www.linkedin.com/in/mitul-dwivedi-5058b8253/",
+      name: "Ankit Saini",
+      rollNo: "2410990101",
+      linkedin: "",
     },
     {
-      role: "Backend Developer",
-      name: "Mridul Gupta",
-      rollNo: "2210991940",
-      linkedin: "https://www.linkedin.com/in/mridulgupta34/",
+      role: "Frontend Developer",
+      name: "Vikrant Garg",
+      rollNo: "2410990158",
+      linkedin: "",
     },
     {
-      role: "Intern",
-      name: "Devansh Negi",
-      rollNo: "2410990123",
+      role: "UI designer",
+      name: "Sajan Parmar",
+      rollNo: "2410991651",
       linkedin: "", // No link yet
+    },
+    {
+      role: "Frontend Developer",
+      name: "Devakanta Nayak",
+      rollNo: "2410990121",
+      linkedin: "",
     },
   ];
 
